@@ -1,0 +1,52 @@
+By Suhas Dhanyamraju 
+
+Framing the Project
+  - Introduce Your Selected Topic
+    - Explain the Rationale for your selection
+      - The reason that I selected this topic was because becaause of my interest in the NBA and in the sport of basketball in general. Adding onto that was my deep interest
+        in statistical and data analysis. Therefore, I was very keen on combining my two interests in both basketball with the NBA as well as statistical and data analysis. 
+        I am deeply intrigued on how the efficiency rating of a player is found which is why I decided to study if there is any correlation between the points that a certain
+        NBA player averages and the player efficiency rating that a player has. 
+    
+    - Describe your interests in the project and previous experience (if anything) with the subject area
+      - I have done a similar project to this for my Mathematics Internal Assessment back when I was in the IB program at my high school. 
+      - My interests in this project lie within the NBA as well as statistical analysis as mentioned above. 
+      
+    - List and explain outside resources and projects that you plan to use as a reference or example. 
+      - I will be using basketball-reference.com's point per game tracker for this season as it is the most up to date site that updates every player's points per game averages. 
+      - I will also be using espn.com's NBA player effiency rating tracker which has all the updated efficiency ratings for each player. 
+      
+ Proposed Methodology
+    - Detail how you plan to approach working on this topic
+      - I plan to compare the current NBA season to the season back in 2002-2003 to see how the making of the efficiency ratings of NBA players have differed over time. 
+        I will have 2 tales with columns for points per game as well as player efficiency ratings. I will use a regression test/analysis  to see whether there is a correlation 
+        between the two. I will also plot the data using graphs and charts as well. 
+    
+    - If you are asking a research question (i.e. taking a more data-driven approach), explain how you plan to turn your topic into a question that can be answered with data
+      - My question is: Does the player efficiency rating of NBA players solely depend on their points per game? 
+      - I plan to turn this question into data by using a regression test and statistical analysis after gathering my data for the topic/question at hand. 
+      
+    - Describe how you will get data for this project. Do you have access to existing data? Or do you need to collect data? 
+      - I will be collecting data using the basketball reference link for points per game for nba players as well as using the espn link for the player efficiency ratings 
+        for players for both this season as well as the 2002-03 season. 
+        
+    - Explain what methods you will use and why
+      - I will be using a regression analysis test by finding the r value of my data to see how strong the correlation between the points per game that an NBA player 
+        averages as well as their respective player efficiency rating. I find this to be the most effective and efficient method to do this because it is the most 
+        accurate way to compare two data driven fields to find correlation. 
+        
+ Detailed Work Plan 
+    - List how you plan to breakdown the tasks required to complete the work over the remainder of the semester 
+      - Firstly I will work on the background information section/abstract of my project where I will explain and give context about my topic, present my research question
+        as well as present my hypothesis. 
+      - Then I will work on collecting and presenting the data of both the points per game as well as the player efficiency ratings for NBA players while adding needed context.
+      - Then I will calculate a table of regression values for both of the seasons that I am comparing to each other. 
+      - Then I will work on finding the r value (correlation coefficient) to determine how strong or weak the correlation is between these two things. 
+      - Then I will show/depict the data points and the r value in a graph to show how close the data points are to each other with the line of correlation as well. 
+      - Then I will give my analysis of the data and finally end with a conclusion on whether my hypothesis was correct or wrong. 
+      
+ Works Cited 
+      - “2021-22 NBA Player Stats: Per Game.” Basketball, https://www.basketball-reference.com/leagues/NBA_2022_per_game.html#per_game_stats::pts_per_g. 
+      - “2002-03 NBA Player Stats: Per Game.” Basketball, https://www.basketball-reference.com/leagues/NBA_2003_per_game.html#per_game_stats::pts_per_g. 
+      - ESPN, ESPN Internet Ventures, http://insider.espn.com/nba/hollinger/statistics. 
+        
